@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "spotify": {
-      "command": "python",
-      "args": ["/Users/abirami/Desktop/Projects/spotipy-mcp/spotify_mcp_server.py"]
-    }
-  }
-}
